@@ -8,13 +8,18 @@
 ## TA0001 Initial Access
 
 ### T1190 Exploit Public-Facing Application
-* 2022/2/7 新潟県 [新潟県土木防災情報システムのメールサーバを利用され、不正メールが送信された件について、調査と対策を実施しました。](https://www.pref.niigata.lg.jp/sec/kasenkanri/20220207-bousaisystem.html)
-* 2022/2/28 株式会社メタップスペイメント [不正アクセスによる情報流出に関するご報告とお詫び](https://www.metaps-payment.com/company/20220228.html)
-* 2023/3/27 住友不動産株式会社 [「住友不動産のふれあい＋Ｓ」システムへの第三者によるアクセスについて](https://www.sumitomo-rd.co.jp/uploads/20230327_01.pdf)
-* 2023/6/22 志布志市 [本市が運営する「志布志市ふるさと納税特設サイト」への不正アクセスによる個人情報漏えいに関するお詫びとお知らせ](https://www.city.shibushi.lg.jp/soshiki/5/22233.html)
+Known Vulnerabilites  
+* 2023/6/22 志布志市 [本市が運営する「志布志市ふるさと納税特設サイト」への不正アクセスによる個人情報漏えいに関するお詫びとお知らせ](https://www.city.shibushi.lg.jp/soshiki/5/22233.html)  
 * 2023/7/4 株式会社シーアイエス [当社サーバーへの不正アクセスについて（第２報）](https://www.cisjp.com/news/detail/post-20200331.html)
 * 2023/7/7 日本コンクリート工業株式会社 [【状況報告】ランサムウェア被害の調査結果について](https://www.ncic.co.jp/wp/wp-content/uploads/2023/07/230707.pdf)
+
+Unique Vulnerabilites
+* 2022/2/28 株式会社メタップスペイメント [不正アクセスによる情報流出に関するご報告とお詫び](https://www.metaps-payment.com/company/20220228.html)
 * 2023/10/13 株式会社リコー [不正アクセスによる情報流出に関するお知らせとお詫び](https://jp.ricoh.com/info/notice/2023/1013_1)
+
+Misconfiguration
+* 2022/2/7 新潟県 [新潟県土木防災情報システムのメールサーバを利用され、不正メールが送信された件について、調査と対策を実施しました。](https://www.pref.niigata.lg.jp/sec/kasenkanri/20220207-bousaisystem.html)
+* 2023/3/27 住友不動産株式会社 [「住友不動産のふれあい＋Ｓ」システムへの第三者によるアクセスについて](https://www.sumitomo-rd.co.jp/uploads/20230327_01.pdf)
 * 2023/11/8 カシオ計算機株式会社 [ClassPad.net不正アクセスによる個人情報漏えいの経緯と対策状況について](https://classpad.net/jp/news/041/)
 
 ### T1566 Phishing
