@@ -14,6 +14,7 @@ Known Vulnerability
 * 2023/6/22 志布志市 [本市が運営する「志布志市ふるさと納税特設サイト」への不正アクセスによる個人情報漏えいに関するお詫びとお知らせ](https://www.city.shibushi.lg.jp/soshiki/5/22233.html)  
 * 2023/7/4 株式会社シーアイエス [当社サーバーへの不正アクセスについて（第２報）](https://www.cisjp.com/news/detail/post-20200331.html)
 * 2023/7/7 日本コンクリート工業株式会社 [【状況報告】ランサムウェア被害の調査結果について](https://www.ncic.co.jp/wp/wp-content/uploads/2023/07/230707.pdf)
+* 2023/10/11 株式会社マウンハーフジャパン [「MHJストア」への不正アクセスによる個人情報漏えいに関するお詫びとお知らせ](https://www.mhjcom.jp/n-news/22819.html)
 
 Zero-day Vulnerability
 * 2023/8/4 内閣官房内閣サイバーセキュリティセンター [内閣サイバーセキュリティセンターの電子メール関連システムからのメールデータの漏えいの可能性について](https://www.nisc.go.jp/news/20230804.html)
