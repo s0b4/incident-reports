@@ -31,5 +31,8 @@ Misconfiguration
 * 2023/6/20 青梅市 [青梅市ファミリー・サポート・センターのパソコンへの不正アクセスによる個人情報の漏えいのおそれのある事故の結果について](https://www.city.ome.tokyo.jp/soshiki/34/68110.html)
 * 2023/10/24 東京大学 [東京大学大学院総合文化研究科・教養学部への不正アクセスによる情報流出について](https://www.u-tokyo.ac.jp/focus/ja/press/z0109_00952.html)
 
+### T1078.001 Valid Accounts: Default Accounts
+* 2023/3/31 国土交通省 [配信を停止している簡易型河川監視カメラの再開について](https://www.mlit.go.jp/report/press/mizukokudo03_hh_001168.html)
+
 ## その他
 * [「サイバー攻撃被害に係る情報の共有・公表ガイダンス（案）」に対する意見募集の結果及び「サイバー攻撃被害に係る情報の共有・公表ガイダンス」の公表](https://www.meti.go.jp/press/2022/03/20230308006/20230308006.html)
