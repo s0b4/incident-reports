@@ -29,9 +29,12 @@ Misconfiguration
 * 2023/3/23 福岡県暴力追放運動推進センター [お知らせとお詫び](http://www.fukuoka-boutui.or.jp/news/wp-content/uploads/2023/03/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%81%A8%E3%81%8A%E8%A9%AB%E3%81%B3.pdf)
 * 2023/3/31 株式会社地元カンパニー [不正アクセス発生に関するお詫びとご報告](https://www.jimo.co.jp/administration/wp-content/uploads/2023/03/20230331_news_unauthorized_access.pdf)
 * 2023/6/20 青梅市 [青梅市ファミリー・サポート・センターのパソコンへの不正アクセスによる個人情報の漏えいのおそれのある事故の結果について](https://www.city.ome.tokyo.jp/soshiki/34/68110.html)
+
+### T1566.001 Phishing: Spearphishing Attachment
 * 2023/10/24 東京大学 [東京大学大学院総合文化研究科・教養学部への不正アクセスによる情報流出について](https://www.u-tokyo.ac.jp/focus/ja/press/z0109_00952.html)
 
 ### T1078 Valid Accounts
+* 2023/6/2 東京都 [個人情報の不正閲覧・取得及び漏えいについて](https://www.metro.tokyo.lg.jp/tosei/hodohappyo/press/2023/06/02/12.html)
 * 2023/9/28 兼松株式会社 [元従業員の逮捕について](https://www.kanematsu.co.jp/press/files/press/20230928_release.pdf)
 
 ### T1078.001 Valid Accounts: Default Accounts
