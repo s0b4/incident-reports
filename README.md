@@ -9,6 +9,7 @@
 
 ### T1190 Exploit Public-Facing Application
 Known Vulnerability  
+* 2023/4/3 新潟医療福祉大学 [本学ウェブサイトの改ざんに関するお詫びと復旧のご報告](https://www.nuhw.ac.jp/n/topics/10664/)
 * 2023/6/22 志布志市 [本市が運営する「志布志市ふるさと納税特設サイト」への不正アクセスによる個人情報漏えいに関するお詫びとお知らせ](https://www.city.shibushi.lg.jp/soshiki/5/22233.html)  
 * 2023/7/4 株式会社シーアイエス [当社サーバーへの不正アクセスについて（第２報）](https://www.cisjp.com/news/detail/post-20200331.html)
 * 2023/7/7 日本コンクリート工業株式会社 [【状況報告】ランサムウェア被害の調査結果について](https://www.ncic.co.jp/wp/wp-content/uploads/2023/07/230707.pdf)
