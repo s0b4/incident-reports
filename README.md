@@ -36,6 +36,9 @@ Misconfiguration
 ### T1566.001 Phishing: Spearphishing Attachment
 * 2023/10/24 東京大学 [東京大学大学院総合文化研究科・教養学部への不正アクセスによる情報流出について](https://www.u-tokyo.ac.jp/focus/ja/press/z0109_00952.html)
 
+### T1199 Trusted Relationship
+* 2023/11/27 LINE ヤフー株式会社 [不正アクセスによる、情報漏えいに関するお知らせとお詫び](https://ly.swcms.net/ja/ir/news/auto_20231127594672/main/0/link/Notice%20and%20apology%20regarding%20information%20leakage%20due%20to%20unauthorized%20access_JP.pdf)
+
 ### T1078 Valid Accounts
 * 2023/6/2 東京都 [個人情報の不正閲覧・取得及び漏えいについて](https://www.metro.tokyo.lg.jp/tosei/hodohappyo/press/2023/06/02/12.html)
 * 2023/9/28 兼松株式会社 [元従業員の逮捕について](https://www.kanematsu.co.jp/press/files/press/20230928_release.pdf)
