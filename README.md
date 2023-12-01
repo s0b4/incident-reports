@@ -22,13 +22,13 @@ Zero-day Vulnerability
 Unique Vulnerability
 * 2022/2/28 株式会社メタップスペイメント [不正アクセスによる情報流出に関するご報告とお詫び](https://www.metaps-payment.com/company/20220228.html)
 * 2023/10/13 株式会社リコー [不正アクセスによる情報流出に関するお知らせとお詫び](https://jp.ricoh.com/info/notice/2023/1013_1)
-* 2023/11/28 積水ハウス株式会社 [システム開発用クラウドサーバーのセキュリティ設定不備によるお客様情報等の外部漏えいについて
-](https://www.sekisuihouse.co.jp/company/topics/library/2023/20231128/20231128.pdf)
 
 Misconfiguration
 * 2022/2/7 新潟県 [新潟県土木防災情報システムのメールサーバを利用され、不正メールが送信された件について、調査と対策を実施しました。](https://www.pref.niigata.lg.jp/sec/kasenkanri/20220207-bousaisystem.html)
 * 2023/3/27 住友不動産株式会社 [「住友不動産のふれあい＋Ｓ」システムへの第三者によるアクセスについて](https://www.sumitomo-rd.co.jp/uploads/20230327_01.pdf)
 * 2023/11/8 カシオ計算機株式会社 [ClassPad.net不正アクセスによる個人情報漏えいの経緯と対策状況について](https://classpad.net/jp/news/041/)
+* 2023/11/28 積水ハウス株式会社 [システム開発用クラウドサーバーのセキュリティ設定不備によるお客様情報等の外部漏えいについて
+](https://www.sekisuihouse.co.jp/company/topics/library/2023/20231128/20231128.pdf)
 
 ### T1566 Phishing
 * 2023/3/23 福岡県暴力追放運動推進センター [お知らせとお詫び](http://www.fukuoka-boutui.or.jp/news/wp-content/uploads/2023/03/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%81%A8%E3%81%8A%E8%A9%AB%E3%81%B3.pdf)
