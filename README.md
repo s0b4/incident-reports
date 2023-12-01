@@ -46,6 +46,7 @@ Misconfiguration
 * 2023/6/2 東京都 [個人情報の不正閲覧・取得及び漏えいについて](https://www.metro.tokyo.lg.jp/tosei/hodohappyo/press/2023/06/02/12.html)
 * 2023/9/28 兼松株式会社 [元従業員の逮捕について](https://www.kanematsu.co.jp/press/files/press/20230928_release.pdf)
 * 2023/10/20 独立行政法人日本学生支援機構 [委託事業者における個人情報の漏洩事案の発生について](https://www.jasso.go.jp/news/1208184_1579.html)
+* 2023/12/1 仙台市 [懲戒処分の公表について](https://www.city.sendai.jp/somu-jinji-jinji/kisha/20231201.html)
 
 ### T1078.001 Valid Accounts: Default Accounts
 * 2023/3/31 国土交通省 [配信を停止している簡易型河川監視カメラの再開について](https://www.mlit.go.jp/report/press/mizukokudo03_hh_001168.html)
