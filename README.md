@@ -15,6 +15,7 @@ Known Vulnerability
 * 2023/7/4 株式会社シーアイエス [当社サーバーへの不正アクセスについて（第２報）](https://www.cisjp.com/news/detail/post-20200331.html)
 * 2023/7/7 日本コンクリート工業株式会社 [【状況報告】ランサムウェア被害の調査結果について](https://www.ncic.co.jp/wp/wp-content/uploads/2023/07/230707.pdf)
 * 2023/10/11 株式会社マウンハーフジャパン [「MHJストア」への不正アクセスによる個人情報漏えいに関するお詫びとお知らせ](https://www.mhjcom.jp/n-news/22819.html)
+* 2023/11/02 一般社団法人共同通信社 [不正アクセスによる職員等の個人情報漏えいの恐れのお知らせとおわび](https://www.kyodonews.jp/information/2023/post-108.html)
 
 Zero-day Vulnerability
 * 2023/8/4 内閣官房内閣サイバーセキュリティセンター [内閣サイバーセキュリティセンターの電子メール関連システムからのメールデータの漏えいの可能性について](https://www.nisc.go.jp/news/20230804.html)
