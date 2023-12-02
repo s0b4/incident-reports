@@ -19,6 +19,8 @@ Known Vulnerability
 
 Zero-day Vulnerability
 * 2023/8/4 内閣官房内閣サイバーセキュリティセンター [内閣サイバーセキュリティセンターの電子メール関連システムからのメールデータの漏えいの可能性について](https://www.nisc.go.jp/news/20230804.html)
+* 2023/11/7 国立環境研究所 [国立環境研究所が運用するオンラインストレージサービス（Proself）への不正アクセスについて](https://www.nies.go.jp/whatsnew/2023/20231030-1.html)
+* 2023/11/17 独立行政法人日本学術振興会 [不正アクセスによる個人情報漏えいのお詫びとご報告](https://www.jsps.go.jp/file/storage/j-news/2023/oshirase_20231117.pdf)
 
 Unique Vulnerability
 * 2022/2/28 株式会社メタップスペイメント [不正アクセスによる情報流出に関するご報告とお詫び](https://www.metaps-payment.com/company/20220228.html)
