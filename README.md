@@ -57,6 +57,8 @@ Misconfiguration
 
 ## TA0006 Credential Access
 
+攻撃者のログイン試行に起因するインシデントは、"TA0001 Initial Access" の中に適した Techniques が見当たらないため、"TA0006 Credential Access" の Techniques に割り当てて整理しています。
+
 ### T1110.001 Brute Force: Password Guessing
 * 2021/07/28 KLab株式会社 [KLab ID への不正ログインに関するお知らせ](https://www.klab.com/jp/press/info/2021/0728/klab_id_1.html)
 
