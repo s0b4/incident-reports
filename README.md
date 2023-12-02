@@ -55,5 +55,13 @@ Misconfiguration
 ### T1078.001 Valid Accounts: Default Accounts
 * 2023/3/31 国土交通省 [配信を停止している簡易型河川監視カメラの再開について](https://www.mlit.go.jp/report/press/mizukokudo03_hh_001168.html)
 
+## TA0006 Credential Access
+
+### T1110.001 Brute Force: Password Guessing
+* 2021/07/28 KLab株式会社 [KLab ID への不正ログインに関するお知らせ](https://www.klab.com/jp/press/info/2021/0728/klab_id_1.html)
+
+### T1110.004 Brute Force: Credential Stuffing
+* 2023/03/30 エン・ジャパン株式会社 [「エン転職」への不正ログイン発生に関するお詫びとお願い](https://corp.en-japan.com/newsrelease/2023/32484.html)
+
 ## その他
 * [「サイバー攻撃被害に係る情報の共有・公表ガイダンス（案）」に対する意見募集の結果及び「サイバー攻撃被害に係る情報の共有・公表ガイダンス」の公表](https://www.meti.go.jp/press/2022/03/20230308006/20230308006.html)
