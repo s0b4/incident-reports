@@ -19,6 +19,7 @@ Known Vulnerability
 
 Zero-day Vulnerability
 * 2023/8/4 内閣官房内閣サイバーセキュリティセンター [内閣サイバーセキュリティセンターの電子メール関連システムからのメールデータの漏えいの可能性について](https://www.nisc.go.jp/news/20230804.html)
+* 2023/10/19 独立行政法人国立科学博物館 [電子メール関連システムへの不正アクセスに伴う個人情報等漏えいのおそれについて](https://www.kahaku.go.jp/information/pdf/kahaku_20231019.pdf)
 * 2023/11/7 国立環境研究所 [国立環境研究所が運用するオンラインストレージサービス（Proself）への不正アクセスについて](https://www.nies.go.jp/whatsnew/2023/20231030-1.html)
 * 2023/11/17 独立行政法人日本学術振興会 [不正アクセスによる個人情報漏えいのお詫びとご報告](https://www.jsps.go.jp/file/storage/j-news/2023/oshirase_20231117.pdf)
 
