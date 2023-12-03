@@ -43,9 +43,21 @@ Misconfiguration
 ### T1566.001 Phishing: Spearphishing Attachment
 * 2023/10/24 東京大学 [東京大学大学院総合文化研究科・教養学部への不正アクセスによる情報流出について](https://www.u-tokyo.ac.jp/focus/ja/press/z0109_00952.html)
 
+### T1195 Supply Chain Compromise
+
+企業が利用しているサービス側が不正アクセスを受けたケースは、 "T1195 Supply Chain Compromise" に整理するのか、それとも "T1199 Trusted Relationship" に整理するのか迷いました。
+現状の MITRE ATTA&CK では、どちらにも捉えられるように思います。 
+
+一旦は "T1195 Supply Chain Compromise" に整理しておきます。
+いずれ見直すかもしれません。  
+
+* 2023/10/19 千葉県教育委員会 [不正アクセスによる個人情報漏えいについて](https://www.pref.chiba.lg.jp/kyouiku/shidou/giga/2023casiorouei.html)
+* 2023/3/10 京セラ株式会社 [当社利用サービスへの不正アクセスについて](https://www.kyocera.co.jp/newsroom/information/2023/002149.html)
+
 ### T1199 Trusted Relationship
 
-ビジネスサプライチェーン攻撃 という名称で説明されていることもあるようです。 MITRE ATTA&CK では "T1199 Trusted Relationship" の Techniques が最も合致しているようだったため、このように整理しています。  
+ビジネスサプライチェーン攻撃 という名称で説明されていることもあるようです。 
+MITRE ATTA&CK では "T1199 Trusted Relationship" の Techniques が最も合致しているようだったため、このように整理しています。  
 
 * 2023/9/5 関西ペイント株式会社 [当社海外子会社への不正アクセスについて](https://www.kansai.co.jp/news/press23/publicrelationsnewsarticle.html-35)
 * 2023/11/16 ヤマハ発動機株式会社 [フィリピン子会社に対する不正アクセスについて](https://global.yamaha-motor.com/jp/news/2023/1116/corporate.html)
@@ -72,7 +84,8 @@ Misconfiguration
 
 ## TA0042 Resource Development
 
-第三者によるドメインの再利用に起因するインシデントは、"TA0001 Initial Access" の中に適した Techniques が見当たらないため、"TA0042 Resource Development" の中の Techniques に割り当てて整理しています。
+第三者によるドメインの再利用に起因するインシデントは、"TA0001 Initial Access" の中に適した Techniques が見当たらないため、"TA0042 Resource Development" の中の Techniques に割り当てて整理しています。  
+
 本来、MITRE ATT&CKの Enterprise tactics の順番では、"TA0042 Resource Development" は "TA0001 Initial Access" より手前です。 "TA0001 Initial Access" 側を中心に整理したいため、 "TA0042 Resource Development" を後に記載しています。  
 
 ### T1584.001 Compromise Infrastructure: Domains
