@@ -44,6 +44,7 @@ Misconfiguration
 * 2023/10/24 東京大学 [東京大学大学院総合文化研究科・教養学部への不正アクセスによる情報流出について](https://www.u-tokyo.ac.jp/focus/ja/press/z0109_00952.html)
 
 ### T1199 Trusted Relationship
+ビジネスサプライチェーン攻撃 という名称で説明されていることもあるようです。 MITRE ATTA&CK では "T1199 Trusted Relationship" の Techniques が最も合致しているようだったため、このように整理しています。  
 * 2023/11/16 ヤマハ発動機株式会社 [フィリピン子会社に対する不正アクセスについて](https://global.yamaha-motor.com/jp/news/2023/1116/corporate.html)
 * 2023/11/27 LINE ヤフー株式会社 [不正アクセスによる、情報漏えいに関するお知らせとお詫び](https://ly.swcms.net/ja/ir/news/auto_20231127594672/main/0/link/Notice%20and%20apology%20regarding%20information%20leakage%20due%20to%20unauthorized%20access_JP.pdf)
 
