@@ -57,7 +57,7 @@ Misconfiguration
 
 ## TA0006 Credential Access
 
-攻撃者のログイン試行に起因するインシデントは、"TA0001 Initial Access" の中に適した Techniques が見当たらないため、"TA0006 Credential Access" の Techniques に割り当てて整理しています。
+攻撃者のログイン試行に起因するインシデントは、"TA0001 Initial Access" の中に適した Techniques が見当たらないため、"TA0006 Credential Access" の中の Techniques に割り当てて整理しています。
 
 ### T1110.001 Brute Force: Password Guessing
 * 2021/07/28 KLab株式会社 [KLab ID への不正ログインに関するお知らせ](https://www.klab.com/jp/press/info/2021/0728/klab_id_1.html)
@@ -65,5 +65,14 @@ Misconfiguration
 ### T1110.004 Brute Force: Credential Stuffing
 * 2023/03/30 エン・ジャパン株式会社 [「エン転職」への不正ログイン発生に関するお詫びとお願い](https://corp.en-japan.com/newsrelease/2023/32484.html)
 
+## TA0042 Resource Development
+
+第三者によるドメインの再利用に起因するインシデントは、"TA0001 Initial Access" の中に適した Techniques が見当たらないため、"TA0042 Resource Development" の中の Techniques に割り当てて整理しています。  
+本来、MITRE ATT&CKの Enterprise tactics の順番では、"TA0042 Resource Development" は "TA0001 Initial Access" より手前です。 "TA0001 Initial Access" 側を中心に整理したいため、 "TA0042 Resource Development" を後に記載しています。  
+
+### T1584.001 Compromise Infrastructure: Domains
+* 2023/11/7 堺市 [「堺旅キャンペーン」で使用したドメインの第三者による再利用について](https://www.city.sakai.lg.jp/kanko/kanko/oshirase/sakaitabi_domain.html)
+
 ## その他
 * [「サイバー攻撃被害に係る情報の共有・公表ガイダンス（案）」に対する意見募集の結果及び「サイバー攻撃被害に係る情報の共有・公表ガイダンス」の公表](https://www.meti.go.jp/press/2022/03/20230308006/20230308006.html)
+
