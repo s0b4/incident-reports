@@ -39,6 +39,7 @@ Misconfiguration
 * 2023/3/31 株式会社地元カンパニー [不正アクセス発生に関するお詫びとご報告](https://www.jimo.co.jp/administration/wp-content/uploads/2023/03/20230331_news_unauthorized_access.pdf)
 * 2023/6/20 青梅市 [青梅市ファミリー・サポート・センターのパソコンへの不正アクセスによる個人情報の漏えいのおそれのある事故の結果について](https://www.city.ome.tokyo.jp/soshiki/34/68110.html)
 * 2023/11/29 京都教育大学附属桃山中学校 [サポート詐欺による公用パソコン遠隔操作被害について](https://momochu.kyokyo-u.ac.jp/index/pickup/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E8%A9%90%E6%AC%BA%E3%81%AB%E3%82%88%E3%82%8B%E5%85%AC%E7%94%A8%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E9%81%A0%E9%9A%94%E6%93%8D%E4%BD%9C%E8%A2%AB%E5%AE%B3%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf)
+* 2023/11/30 株式会社シグマ [弊社Instagram公式アカウントに関するお詫びとご報告](https://www.sigma-global.com/jp/news/2023/11/30/231130/)
 
 ### T1566.001 Phishing: Spearphishing Attachment
 * 2023/10/24 東京大学 [東京大学大学院総合文化研究科・教養学部への不正アクセスによる情報流出について](https://www.u-tokyo.ac.jp/focus/ja/press/z0109_00952.html)
