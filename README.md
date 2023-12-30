@@ -27,6 +27,7 @@ Zero-day Vulnerability
 Unique Vulnerability
 * 2022/2/28 株式会社メタップスペイメント [不正アクセスによる情報流出に関するご報告とお詫び](https://www.metaps-payment.com/company/20220228.html)
 * 2023/10/13 株式会社リコー [不正アクセスによる情報流出に関するお知らせとお詫び](https://jp.ricoh.com/info/notice/2023/1013_1)
+* 2023/12/19 朝日新聞社 [個人情報流出(本年9月6日判明)に関する調査結果のお知らせ](https://www.asahi.com/corporate/info/15087850)
 
 Misconfiguration
 * 2022/2/7 新潟県 [新潟県土木防災情報システムのメールサーバを利用され、不正メールが送信された件について、調査と対策を実施しました。](https://www.pref.niigata.lg.jp/sec/kasenkanri/20220207-bousaisystem.html)
