@@ -92,6 +92,7 @@ MITRE ATTA&CK では "T1199 Trusted Relationship" の Techniques が最も合致
 本来、MITRE ATT&CKの Enterprise tactics の順番では、"TA0042 Resource Development" は "TA0001 Initial Access" より手前です。 "TA0001 Initial Access" 側を中心に整理したいため、 "TA0042 Resource Development" を後に記載しています。  
 
 ### T1584.001 Compromise Infrastructure: Domains
+* 2023/10/27 浜田市 [浜田市が廃止したドメイン名の第三者による取得について](https://www.city.hamada.shimane.jp/www/contents/1700611474937/index.html)
 * 2023/11/7 堺市 [「堺旅キャンペーン」で使用したドメインの第三者による再利用について](https://www.city.sakai.lg.jp/kanko/kanko/oshirase/sakaitabi_domain.html)
 
 ## その他
