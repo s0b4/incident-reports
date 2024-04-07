@@ -89,6 +89,7 @@ MITRE ATTA&CK では "T1199 Trusted Relationship" の Techniques が最も合致
 * 2024/01/19 Microsoft [Microsoft Actions Following Attack by Nation State Actor Midnight Blizzard](https://msrc.microsoft.com/blog/2024/01/microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/)
 
 ### T1110.004 Brute Force: Credential Stuffing
+* 2021/06/03 セゾン自動車火災保険株式会社 [「マイページ」ログイン画面への不正アクセスについて](https://news-ins-saison.dga.jp/topics/down2.php?id=9000937&attach_id=1054&seq=1)
 * 2023/03/30 エン・ジャパン株式会社 [「エン転職」への不正ログイン発生に関するお詫びとお願い](https://corp.en-japan.com/newsrelease/2023/32484.html)
 
 ## TA0042 Resource Development
