@@ -9,11 +9,8 @@
 
 ### T1190 Exploit Public-Facing Application
 Known Vulnerability  
-* 2022/12/27 社会医療法人生長会 [サイバー攻撃被害によるシステム障害のお知らせ（第 2 報）](https://www.seichokai.or.jp/system/upload/bellkitchen/news/1672125435_020263400.pdf)
 * 2023/4/3 新潟医療福祉大学 [本学ウェブサイトの改ざんに関するお詫びと復旧のご報告](https://www.nuhw.ac.jp/n/topics/10664/)
 * 2023/6/22 志布志市 [本市が運営する「志布志市ふるさと納税特設サイト」への不正アクセスによる個人情報漏えいに関するお詫びとお知らせ](https://www.city.shibushi.lg.jp/soshiki/5/22233.html)  
-* 2023/7/4 株式会社シーアイエス [当社サーバーへの不正アクセスについて（第２報）](https://www.cisjp.com/news/detail/post-20200331.html)
-* 2023/7/7 日本コンクリート工業株式会社 [【状況報告】ランサムウェア被害の調査結果について](https://www.ncic.co.jp/wp/wp-content/uploads/2023/07/230707.pdf)
 * 2023/10/11 株式会社マウンハーフジャパン [「MHJストア」への不正アクセスによる個人情報漏えいに関するお詫びとお知らせ](https://www.mhjcom.jp/n-news/22819.html)
 * 2023/11/02 一般社団法人共同通信社 [不正アクセスによる職員等の個人情報漏えいの恐れのお知らせとおわび](https://www.kyodonews.jp/information/2023/post-108.html)
 * 2023/12/07 株式会社徳岡 [弊社が運営する「ボルドープリムール」「ボンルパ」への不正アクセスによる個人情報漏えいに関するお詫びとお知らせ](https://tokuoka.jp/upload/pdf/upPdf/20231206174829_20231207.pdf)
@@ -39,6 +36,9 @@ Misconfiguration
 ](https://www.sekisuihouse.co.jp/company/topics/library/2023/20231128/20231128.pdf)
 
 ### T1133 Exploit External Remote Services
+* 2022/12/27 社会医療法人生長会 [サイバー攻撃被害によるシステム障害のお知らせ（第 2 報）](https://www.seichokai.or.jp/system/upload/bellkitchen/news/1672125435_020263400.pdf)
+* 2023/7/4 株式会社シーアイエス [当社サーバーへの不正アクセスについて（第２報）](https://www.cisjp.com/news/detail/post-20200331.html)
+* 2023/7/7 日本コンクリート工業株式会社 [【状況報告】ランサムウェア被害の調査結果について](https://www.ncic.co.jp/wp/wp-content/uploads/2023/07/230707.pdf)
 * 2024/3/28 公益財団法人埼玉県健康づくり事業団 [Ｘ線画像読影システムへの不正アクセス攻撃について（第２報）](https://www.saitama-kenkou.or.jp/pdf/news_20240328.pdf)
 
 ### T1566 Phishing
