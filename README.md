@@ -90,6 +90,7 @@ MITRE ATTA&CK では "T1199 Trusted Relationship" の Techniques が最も合致
 
 ### T1110.004 Brute Force: Credential Stuffing
 * 2021/06/03 セゾン自動車火災保険株式会社 [「マイページ」ログイン画面への不正アクセスについて](https://news-ins-saison.dga.jp/topics/down2.php?id=9000937&attach_id=1054&seq=1)
+* 2022/09/20 株式会社ニトリホールディングス [「ニトリアプリ」への不正アクセスによる個人情報流出の可能性に関するお詫びとお知らせ](https://www.nitorihd.co.jp/news/items/2cdbc59fa4c3ffe4da790cc1cfe85200.pdf)
 * 2023/03/30 エン・ジャパン株式会社 [「エン転職」への不正ログイン発生に関するお詫びとお願い](https://corp.en-japan.com/newsrelease/2023/32484.html)
 
 ## TA0042 Resource Development
