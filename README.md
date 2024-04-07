@@ -38,6 +38,9 @@ Misconfiguration
 * 2023/11/28 積水ハウス株式会社 [システム開発用クラウドサーバーのセキュリティ設定不備によるお客様情報等の外部漏えいについて
 ](https://www.sekisuihouse.co.jp/company/topics/library/2023/20231128/20231128.pdf)
 
+### T1133 Exploit External Remote Services
+* 2024/3/28 公益財団法人埼玉県健康づくり事業団 [Ｘ線画像読影システムへの不正アクセス攻撃について（第２報）](https://www.saitama-kenkou.or.jp/pdf/news_20240328.pdf)
+
 ### T1566 Phishing
 * 2023/3/23 福岡県暴力追放運動推進センター [お知らせとお詫び](http://www.fukuoka-boutui.or.jp/news/wp-content/uploads/2023/03/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E3%81%A8%E3%81%8A%E8%A9%AB%E3%81%B3.pdf)
 * 2023/3/31 株式会社地元カンパニー [不正アクセス発生に関するお詫びとご報告](https://www.jimo.co.jp/administration/wp-content/uploads/2023/03/20230331_news_unauthorized_access.pdf)
