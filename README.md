@@ -62,6 +62,9 @@ Misconfiguration
 * 2023/10/19 千葉県教育委員会 [不正アクセスによる個人情報漏えいについて](https://www.pref.chiba.lg.jp/kyouiku/shidou/giga/2023casiorouei.html)
 * 2023/3/10 京セラ株式会社 [当社利用サービスへの不正アクセスについて](https://www.kyocera.co.jp/newsroom/information/2023/002149.html)
 
+### T1195.001 Supply Chain Compromise: Compromise Software Dependencies and Development Tools
+* 2021/5/21 株式会社メルカリ [「Codecov」への第三者からの不正アクセスによる当社への影響および一部顧客情報等の流出について](https://about.mercari.com/press/news/articles/20210521_incident_report/)
+
 ### T1199 Trusted Relationship
 
 ビジネスサプライチェーン攻撃 という名称で説明されていることもあるようです。 
